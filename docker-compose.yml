@@ -7,7 +7,7 @@ services:
       - 27017:27017
     command: --smallfiles
   app:
-    image: springboot-mongo
+    image: docker-spring-mongo
     ports:
       - 8080:8080
     links:
