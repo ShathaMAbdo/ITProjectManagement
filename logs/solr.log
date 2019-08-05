@@ -1,3 +1,3 @@
-INFO  - 2019-05-18 12:22:50.070; se.BTH.ITProjectManagement.sprintManag.controllers.TaskController; Request to fetch all tasks for custom sprint from the mongo database
-INFO  - 2019-05-18 12:22:52.728; se.BTH.ITProjectManagement.sprintManag.controllers.TaskController; Request to open the edit task form page
-INFO  - 2019-05-18 12:23:14.153; se.BTH.ITProjectManagement.sprintManag.controllers.TaskController; Request to fetch all tasks for custom sprint from the mongo database
+INFO  - 2019-05-18 12:22:50.070; TaskController; Request to fetch all tasks for custom sprint from the mongo database
+INFO  - 2019-05-18 12:22:52.728; TaskController; Request to open the edit task form page
+INFO  - 2019-05-18 12:23:14.153; TaskController; Request to fetch all tasks for custom sprint from the mongo database
