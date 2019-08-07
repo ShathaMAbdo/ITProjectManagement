@@ -12,7 +12,6 @@
     <artifactId>sprintmanag-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>sprintmanag-service</name>
-    <description>Demo project for Spring Boot</description>
 
     <properties>
         <java.version>1.8</java.version>
@@ -250,12 +249,13 @@
                         <goals>
                             <goal>repackage</goal>
                         </goals>
+<!--
                         <configuration>
                             <mainClass>se.BTH.services.sprintManag.webmvc.WebServer</mainClass>
-                            <finalName>SpringMicroServiceBooking</finalName>
+                            <finalName>SpringMicroServicescrum</finalName>
                             <executable>true</executable>
                         </configuration>
-
+-->
                     </execution>
                 </executions>
             </plugin>
